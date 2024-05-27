@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Crediting/static/css/main.d8bfbaba.css",
-    "main.js": "/Crediting/static/js/main.b363d196.js",
+    "main.js": "/Crediting/static/js/main.076987f4.js",
     "index.html": "/Crediting/index.html",
     "main.d8bfbaba.css.map": "/Crediting/static/css/main.d8bfbaba.css.map",
-    "main.b363d196.js.map": "/Crediting/static/js/main.b363d196.js.map"
+    "main.076987f4.js.map": "/Crediting/static/js/main.076987f4.js.map"
   },
   "entrypoints": [
     "static/css/main.d8bfbaba.css",
-    "static/js/main.b363d196.js"
+    "static/js/main.076987f4.js"
   ]
 }
