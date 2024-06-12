@@ -1,13 +1,15 @@
 {
   "files": {
-    "main.css": "/Crediting/static/css/main.d8bfbaba.css",
-    "main.js": "/Crediting/static/js/main.076987f4.js",
+    "main.css": "/Crediting/static/css/main.e9dd93e3.chunk.css",
+    "main.js": "/Crediting/static/js/main.a7560e2f.chunk.js",
+    "main.js.map": "/Crediting/static/js/main.a7560e2f.chunk.js.map",
+    "runtime~main.js": "/Crediting/static/js/runtime~main.dcf9ff0b.js",
+    "runtime~main.js.map": "/Crediting/static/js/runtime~main.dcf9ff0b.js.map",
+    "static/js/2.38fec76d.chunk.js": "/Crediting/static/js/2.38fec76d.chunk.js",
+    "static/js/2.38fec76d.chunk.js.map": "/Crediting/static/js/2.38fec76d.chunk.js.map",
     "index.html": "/Crediting/index.html",
-    "main.d8bfbaba.css.map": "/Crediting/static/css/main.d8bfbaba.css.map",
-    "main.076987f4.js.map": "/Crediting/static/js/main.076987f4.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.d8bfbaba.css",
-    "static/js/main.076987f4.js"
-  ]
+    "precache-manifest.2e18eca721f32c3e939fd8aa44977c1d.js": "/Crediting/precache-manifest.2e18eca721f32c3e939fd8aa44977c1d.js",
+    "service-worker.js": "/Crediting/service-worker.js",
+    "static/css/main.e9dd93e3.chunk.css.map": "/Crediting/static/css/main.e9dd93e3.chunk.css.map"
+  }
 }
